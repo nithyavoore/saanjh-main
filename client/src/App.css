@@ -1,0 +1,12 @@
+body{
+  /* background-color: #282c34; */
+  color: rgb(255, 255, 255);
+  
+}
+
+.App-header{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
